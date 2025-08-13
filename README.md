@@ -21,10 +21,3 @@ Je reste à ta disposition en cas de besoin.
 Bien à toi,
 Clara Daucourt
 CTO
-# Pièces jointes : 
-Template du dictionnaire des données
-# Les données
-Le schéma relationnel à recréer et modifier 
-
-Cette mission est entièrement guidée.
-Vous pouvez suivre les étapes ci-dessous.
